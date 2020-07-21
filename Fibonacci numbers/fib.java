@@ -1,3 +1,9 @@
+/*
+@Author:Shakhzod Ali-zade
+@Problem: c
+*/
+
+
 import java.util.Scanner;
 class Main {
   public static void main(String[] args) {
